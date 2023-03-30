@@ -95,7 +95,11 @@ input, select, textarea {
 	}
 
 	body {
+<<<<<<< HEAD
 		background: #b40a0a;
+=======
+		background: #31e40d;
+>>>>>>> parent of c70987f (index.html)
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
